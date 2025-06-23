@@ -24,6 +24,12 @@ KENGEN is implemented in Python, ensuring compatibility and ease of use for deve
 ![Image](https://github.com/user-attachments/assets/63e0e8b8-86a7-4843-bd31-174b59a27257)
 
 
+
+
+
 ### Python to C++
 
 ![Image](https://github.com/user-attachments/assets/2905896c-d659-4824-9cef-a0db0d3284b2)
+
+#### Developed by
+[Eugen Schmassmann ](https://www.facebook.com/eugensacramento), [Kenneth Peralta](https://www.facebook.com/kennethperalta757), [Hark John Lee Parreño](https://www.facebook.com/Arking.yy/)
